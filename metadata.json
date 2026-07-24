@@ -1,0 +1,6 @@
+{
+  "name": "SignalTwin",
+  "description": "Indoor RF + crowd digital twin simulator with Radio Tomographic Imaging (RTI), Friis path loss model, A* pathfinding, and multi-floor greedy placement optimization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
